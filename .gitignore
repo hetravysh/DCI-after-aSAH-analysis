@@ -48,3 +48,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# For clinical data safety
+*.xlsx
+*.xls
+*.csv
+*.rds
