@@ -32,3 +32,5 @@ Other analysis scripts can be run in any order:
 ## Data Availability
 
 No data is deposited in this GitHub. All required data available as per the manuscript section (Data availability).
+
+miRNA sequencing data were processed using the nf-core/smrnaseq pipeline (version 2.4.1). Computational analyses were performed using the HPC infrastructure provided by the Medical University of Lodz within the Digital Medicine Center (MULDiMediC) project (grant no. 2023/ABM/02/00009), financed by the Medical Research Agency in Poland.
